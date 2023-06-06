@@ -1,0 +1,14 @@
+Node.js® is an open-source, cross-platform JavaScript runtime environment. (Definição retirada do próprio site de instalação do node.)
+
+Traduzindo, é uma ferramenta, que permite rodar codigo JS, sem a engine de algum navegador.
+
+Node serve para criar aplicações server-side e em ambientes de desenvolvimento.
+
+NODE NÃO É UMA LINGUAGEM DE PROGRAMAÇÃO. E SIM UMA FERRAMENTA. 
+
+Possibilitou o javascript ter uma stack completa. (funcionar tanto para front como back-end)
+
+Não funciona por meio de uma interface, mas sim por uma CLI(Comand-line-interface)
+
+Uma coisa que popularizou o node, foi a facilidade para subir um serviço.
+    Uma das formas que possibilitou foi o HTTP
