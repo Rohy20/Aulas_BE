@@ -1,0 +1,3 @@
+Criar uma página web que calcule a soma de 2 números.
+A soma deve ser realizada após clicar em um botão (button).
+Necessário utilizar eventos (de preferência, de forma desacoplada).
