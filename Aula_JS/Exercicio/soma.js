@@ -1,12 +1,11 @@
-function soma(){
-    let = ler_numero_A = document.getElementById("Numero A").value;
-        ler_numero_A = parseFloat(ler_numero_A);
-    let = ler_numero_B = document.getElementById("Numero B").value;
-        ler_numero_B = parseFloat(ler_numero_B);
+function soma() {
+    let ler_numero_A = document.getElementById("numeroA").value;
+    let ler_numero_B = document.getElementById("numeroB").value;
     
-    let somar = (ler_numero_A) + (ler_numero_B);
-
-    //alert("A soma deu " + soma);
+    let numero_A = parseFloat(ler_numero_A);
+    let numero_B = parseFloat(ler_numero_B);
+    
+    let resultado = numero_A + numero_B;
+    
+    document.write(`A soma é ${resultado}<br>`);
 }
-
-console.log(soma)
