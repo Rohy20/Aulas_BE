@@ -1,0 +1,4 @@
+Criar uma aplicação que chame um serviço externo.
+Utilizar esse exemplo de forma sync e async para entender as diferenças.
+
+-Vou fazer uma aplicação de previsão do tempo, utilizando a API "WeatherAPI".
