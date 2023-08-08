@@ -1,0 +1,7 @@
+CI - Continuous integration
+é a prática de integrar alterações de código em um repositório várias vezes ao dia.
+    -npm install
+    -npm test
+
+CD - Continuous Delivery
+    -npm run prod
